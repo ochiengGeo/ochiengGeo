@@ -7,9 +7,9 @@
 ---
 
 ## 🔧 What I'm Working With
-- **Languages:** C, C++, Python
+- **Languages:** C, C++, Python, Java
 - **Interests:** Artificial Intelligence, Cybersecurity
-- **Tools:** Git, GitHub, VS Code, Linux
+- **Tools:** Git, GitHub, VS Code, Linux, Godot
 
 ---
 
