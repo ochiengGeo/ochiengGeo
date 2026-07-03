@@ -2,7 +2,7 @@
 
 🎓 CS Student | Cybersecurity & AI Track | Class of 2028  
 📍 Kenya  
-🌱 Currently learning: C++, Object-Orientated Programming, Networking, Python
+🌱 Currently learning: C++, Object-Orientated Programming, Networking, Python, CCNA
 
 ---
 
