@@ -33,11 +33,11 @@ $ cat /etc/palmer/identity.conf
 
 ```yaml
 name        : George Ochieng
-alias       : Palmer
+alias       : Rez
 location    : Nairobi, Kenya 🇰🇪
 university  : Egerton University — BSc Computer Science (Year 1)
 track       : Cybersecurity + Artificial Intelligence (CyberAI)
-slogan      : "SUI28 — See You In 2028"
+slogan      : "SUI28"
 mission     : Build. Defend. Grow.
 ```
 
@@ -134,7 +134,7 @@ goals_2026 = {
     "foundations"   : ["Complete Phase 1 fundamentals", "30+ TryHackMe rooms", "Wireshark fluency"],
     "certification" : ["Pass CompTIA Security+ SY0-701", "LetsDefend SOC path certificate"],
     "lab"           : ["Deploy home Wazuh SIEM", "5+ documented incident investigations"],
-    "SUI28"         : "SOC Analyst → Security Engineer → Security Architect"
+    "the end"       : "remembers everything."
 }
 ```
 
@@ -146,9 +146,9 @@ goals_2026 = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-ochiengGeo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B2B)](https://github.com/ochiengGeo)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Ochieng-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DB899)](https://linkedin.com/in/george-ochieng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Ochieng-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DB899)](https://www.linkedin.com/in/george-ochieng-a526a5387/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=7F77DD)](mailto:georgeochiengochieng@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=7F77DD)](mailto:geochieng2005@gmail.com)
 
 </div>
 
@@ -156,6 +156,6 @@ goals_2026 = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=SUI28%20%E2%80%94%20See%20You%20In%202028&fontSize=16&fontColor=FF6B2B&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=The%20end%20remembers%20everything.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
