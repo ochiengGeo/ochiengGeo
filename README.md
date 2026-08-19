@@ -28,12 +28,12 @@
 ## `whoami`
 
 ```bash
-$ cat /etc/palmer/identity.conf
+$ cat /etc/ochiengGeo/identity.conf
 ```
 
 ```yaml
 name        : George Ochieng
-alias       : Palmer
+alias       : Rez
 location    : Nairobi, Kenya 🇰🇪
 university  : Egerton University — BSc Computer Science (Year 1)
 track       : Cybersecurity + Artificial Intelligence (CyberAI)
