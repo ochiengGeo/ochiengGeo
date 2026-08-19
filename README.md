@@ -152,8 +152,6 @@ mission     : Build. Defend. Grow.
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ochiengGeo&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&icon_color=1DB899&text_color=F0EEE8&border_color=2A2D3A&hide_border=false&count_private=true" alt="GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ochiengGeo&layout=compact&langs_count=4&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&text_color=F0EEE8&border_color=2A2D3A&hide_border=false" alt="Top Languages" />
-
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/streak-stats.svg" alt="GitHub Streak" />
