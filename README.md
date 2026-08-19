@@ -150,18 +150,17 @@ mission     : Build. Defend. Grow.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ochiengGeo&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&icon_color=1DB899&text_color=F0EEE8&border_color=2A2D3A&hide_border=false&count_private=true"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ochiengGeo&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&icon_color=1DB899&text_color=F0EEE8&border_color=2A2D3A&hide_border=false&count_private=true" alt="GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengGeo&layout=compact&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&text_color=F0EEE8&border_color=2A2D3A&hide_border=false"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ochiengGeo&layout=compact&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&text_color=F0EEE8&border_color=2A2D3A&hide_border=false&hide_progress=false" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ochiengGeo&theme=github-dark-blue&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=1DB899&sideLabels=F0EEE8&border=2A2D3A&dates=8B8FA8" />
+<img height="165" src="https://streak-stats.demolab.com?user=ochiengGeo&theme=github-dark-blue&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=1DB899&sideLabels=F0EEE8&border=2A2D3A&dates=8B8FA8" alt="GitHub Streak" />
 
 </div>
 
 ---
-
 ## 🎯 2026 Targets
 
 ```python
