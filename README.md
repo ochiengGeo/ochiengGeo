@@ -156,7 +156,7 @@ mission     : Build. Defend. Grow.
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ochiengGeo&theme=github-dark-blue&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=1DB899&sideLabels=F0EEE8&border=2A2D3A&dates=8B8FA8" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/streak-stats.svg" alt="GitHub Streak" />
 
 </div>
 
