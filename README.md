@@ -161,6 +161,13 @@ mission     : Build. Defend. Grow.
 </div>
 
 ---
+## 🎮 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/pacman.svg" alt="Pacman contribution graph"/>
+</div>
+
+---
 ## 🎯 2026 Targets
 
 ```python
