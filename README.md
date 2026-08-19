@@ -28,7 +28,7 @@
 ## `whoami`
 
 ```bash
-$ cat /etc/palmer/identity.conf
+$ cat /etc/ochiengGeo/identity.conf
 ```
 
 ```yaml
