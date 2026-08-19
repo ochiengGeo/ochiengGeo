@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Phase%201%20%E2%80%94%20The%20Foundation-FF6B2B?style=for-the-badge&logo=target&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Target-SOC%20Analyst%20%7C%20Mid%202027-1DB899?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Target-SOC%20Analyst%20%7C%20Mid%202028-1DB899?style=for-the-badge&logo=checkmarx&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-Computer%20Science%20%7C%20Egerton%20University-7F77DD?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
@@ -28,12 +28,12 @@
 ## `whoami`
 
 ```bash
-$ cat /etc/ochiengGeo/identity.conf
+$ cat /etc/palmer/identity.conf
 ```
 
 ```yaml
 name        : George Ochieng
-alias       : Rez
+alias       : Palmer
 location    : Nairobi, Kenya 🇰🇪
 university  : Egerton University — BSc Computer Science (Year 1)
 track       : Cybersecurity + Artificial Intelligence (CyberAI)
@@ -85,19 +85,54 @@ mission     : Build. Defend. Grow.
 
 ---
 
+## 📺 Currently Consuming
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Rick%20%26%20Morty-0D1117?style=for-the-badge&logo=hbo&logoColor=1DB899"/><br/>
+<sub>🎬 Series — keeps the mind sharp</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/NetworkChuck-0D1117?style=for-the-badge&logo=youtube&logoColor=FF6B2B"/><br/>
+<sub>📡 Networking & cybersecurity labs</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/MyDFIR-0D1117?style=for-the-badge&logo=youtube&logoColor=FF6B2B"/><br/>
+<sub>🔍 SOC & DFIR walkthroughs</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Bro%20Code-0D1117?style=for-the-badge&logo=youtube&logoColor=7F77DD"/><br/>
+<sub>💻 Programming fundamentals</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 **Languages**
 
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF6B2B)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=1DB899)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=7F77DD)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF6B2B)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=1DB899)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=7F77DD)
+
+**IDE & Environment**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=1DB899)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF6B2B)
 
 **Security & Networking**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF6B2B)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1DB899)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD)
 
