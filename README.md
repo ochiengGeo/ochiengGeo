@@ -164,7 +164,7 @@ mission     : Build. Defend. Grow.
 ## 🎮 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/pacman.svg" alt="Pacman contribution graph"/>
+  <img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/pacman.svg" alt="Pacman Contribution Animation" width="100%" />
 </div>
 
 ---
