@@ -15,15 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Streak Stat SVG
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: "user=ochiengGeo&theme=github-dark-blue&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=1DB899&sideLabels=F0EEE8&border=2A2D3A&dates=8B8FA8"
+      - name: Create build directory
+        run: mkdir -p build
 
-      - name: Create build directory and move file
+      - name: Fetch Streak SVG directly
         run: |
-          mkdir -p build
-          mv readme-streak-stats.svg build/streak-stats.svg
+          curl -s "https://streak-stats.demolab.com?user=ochiengGeo&theme=github-dark-blue&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=1DB899&sideLabels=F0EEE8&border=2A2D3A&dates=8B8FA8" -o build/streak-stats.svg
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
