@@ -185,6 +185,8 @@ goals_2026 = {
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Ochieng-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DB899)](https://www.linkedin.com/in/george-ochieng-a526a5387/)
 &nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-ochienggeo-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/ochienggeo)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=7F77DD)](mailto:geochieng2005@gmail.com)
 
 </div>
