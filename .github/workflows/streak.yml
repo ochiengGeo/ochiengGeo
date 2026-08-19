@@ -2,7 +2,7 @@ name: Update GitHub Streak Stat
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,10 +12,11 @@ jobs:
   update-streak:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate Streak Stat SVG
-        uses: DenverCoder1/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           user: ochiengGeo
           theme: github-dark-blue
