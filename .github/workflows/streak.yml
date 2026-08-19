@@ -18,8 +18,8 @@ jobs:
       - name: Generate Streak Stat SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: ochiengGeo
-          theme: github-dark-blue
+          user-id: "ochiengGeo"
+          theme-id: "github-dark-blue"
           background: "0D1117"
           ring: "FF6B2B"
           fire: "FF6B2B"
@@ -27,7 +27,11 @@ jobs:
           sideLabels: "F0EEE8"
           border: "2A2D3A"
           dates: "8B8FA8"
-          output: "build/streak-stats.svg"
+
+      - name: Create build directory and move file
+        run: |
+          mkdir -p build
+          mv readme-streak-stats.svg build/streak-stats.svg
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
