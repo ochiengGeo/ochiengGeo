@@ -154,8 +154,6 @@ mission     : Build. Defend. Grow.
 &nbsp;
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/streak-stats.svg" alt="GitHub Streak" />
-
 ---
 ## 🎮 Contribution Graph
 
