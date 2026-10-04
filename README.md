@@ -35,7 +35,7 @@ $ cat /etc/ochiengGeo/identity.conf
 name        : George Ochieng
 alias       : Rez
 location    : Nairobi, Kenya 🇰🇪
-university  : Egerton University — BSc Computer Science (Year 1)
+university  : Egerton University — BSc Computer Science (Year 2)
 track       : Cybersecurity + Artificial Intelligence (CyberAI)
 slogan      : "SUI28"
 mission     : Build. Defend. Grow.
