@@ -135,6 +135,7 @@ mission     : Build. Defend. Grow.
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1DB899)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 **Platforms**
 
