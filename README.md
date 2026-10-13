@@ -116,36 +116,39 @@ mission     : Build. Defend. Grow.
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF6B2B)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=1DB899)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=7F77DD)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF6B2B)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=1DB899)
-
-**IDE & Environment**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=1DB899)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF6B2B)
-
-**Security & Networking**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1DB899)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![CyberChef](https://img.shields.io/badge/CyberChef-0D1117?style=for-the-badge&logo=matrix&logoColor=A4C639)
-
-**Platforms**
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF6B2B)
-![Blue Team Labs](https://img.shields.io/badge/Blue_Team_Labs-0D1117?style=for-the-badge&logo=shield&logoColor=1DB899)
-![CyberDefenders](https://img.shields.io/badge/CyberDefenders-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7F77DD)
-![LetsDefend](https://img.shields.io/badge/LetsDefend-0D1117?style=for-the-badge&logo=shield&logoColor=20B2AA)
-![CyLab](https://img.shields.io/badge/CyLab-0D1117?style=for-the-badge&logo=terminal&logoColor=F05032)
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Languages</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🖥️ IDE & Environment</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,kali" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🛡️ Security & Networking</h3>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD" />
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/CyberChef-A4C639?style=for-the-badge&logo=matrix&logoColor=white" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎯 Platforms</h3>
+      <img src="https://img.shields.io/badge/TryHackMe-222A35?style=for-the-badge&logo=tryhackme&logoColor=FF6B2B" />
+      <img src="https://img.shields.io/badge/Blue_Team_Labs-0D1117?style=for-the-badge&logo=shield&logoColor=1DB899" />
+      <img src="https://img.shields.io/badge/CyberDefenders-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7F77DD" />
+      <img src="https://img.shields.io/badge/LetsDefend-20B2AA?style=for-the-badge&logo=shield&logoColor=white" />
+      <img src="https://img.shields.io/badge/CyLab-F05032?style=for-the-badge&logo=terminal&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
