@@ -136,13 +136,15 @@ mission     : Build. Defend. Grow.
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1DB899)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![CyberChef](https://img.shields.io/badge/CyberChef-0D1117?style=for-the-badge&logo=matrix&logoColor=A4C639)
 
 **Platforms**
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF6B2B)
 ![Blue Team Labs](https://img.shields.io/badge/Blue_Team_Labs-0D1117?style=for-the-badge&logo=shield&logoColor=1DB899)
 ![CyberDefenders](https://img.shields.io/badge/CyberDefenders-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7F77DD)
-
+![LetsDefend](https://img.shields.io/badge/LetsDefend-0D1117?style=for-the-badge&logo=shield&logoColor=20B2AA)
+![CyLab](https://img.shields.io/badge/CyLab-0D1117?style=for-the-badge&logo=terminal&logoColor=F05032)
 </div>
 
 ---
