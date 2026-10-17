@@ -17,12 +17,7 @@
   <img src="https://img.shields.io/badge/Degree-Computer%20Science%20%7C%20Egerton%20University-7F77DD?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
-<!-- CYBERAI LEARNING STATUS -->
-<p>
-  <strong>CYBERAI // LEARNING STATUS</strong><br/>
-  <sub>BUILD. DEFEND. GROW.</sub>
-</p>
-
+<!-- CYBERAI LEARNING STATUS: the SVG panels include their own styled heading -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
