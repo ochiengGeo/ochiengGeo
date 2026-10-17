@@ -17,9 +17,27 @@
   <img src="https://img.shields.io/badge/Degree-Computer%20Science%20%7C%20Egerton%20University-7F77DD?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
+<!-- CYBERAI LEARNING STATUS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ochiengGeo&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <strong>CYBERAI // LEARNING STATUS</strong><br/>
+  <sub>BUILD. DEFEND. GROW.</sub>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/cyberai-panel-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/cyberai-panel-light.svg"
+  />
+  <img
+    src="./assets/cyberai-panel-light.svg"
+    alt="CyberAI learning status: networking, defensive security, systems engineering, and secure AI."
+    width="100%"
+  />
+</picture>
 
 </div>
 
