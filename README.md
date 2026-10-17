@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ochiengGeo&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=ochiengGeo&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
