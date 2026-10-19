@@ -194,16 +194,13 @@ goals_2026 = {
 
 ---
 
-## 🌍 Connect
+## 🌐 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ochiengGeo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B2B)](https://github.com/ochiengGeo)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Ochieng-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DB899)](linkedin.com/in/george-ochieng-cs)
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Ochieng-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DB899)](https://www.linkedin.com/in/george-ochieng-cs)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ochienggeo-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/ochienggeo)
-&nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=7F77DD)](mailto:geochieng2005@gmail.com)
 
 </div>
