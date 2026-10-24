@@ -201,7 +201,7 @@ goals_2026 = {
 [![GitHub](https://img.shields.io/badge/GitHub-ochiengGeo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B2B)](https://github.com/ochiengGeo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Ochieng-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DB899)](https://www.linkedin.com/in/george-ochieng-cs)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ochienggeo-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/ochienggeo)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=7F77DD)](mailto:geochieng2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=7F77DD)](mailto:georgeochieng.cs@gmail.com)
 
 </div>
 
