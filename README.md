@@ -140,29 +140,31 @@ mission     : Build. Defend. Grow.
     <td width="50%" valign="top" align="center">
       <h3>🖥️ IDE & Environment</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,kali" />
+        <img src="https://skillicons.dev/icons?i=vscode,kali,mint" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🛡️ Security & Networking</h3>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD" />
-      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7F77DD" /><br />
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/CyberChef-A4C639?style=for-the-badge&logo=matrix&logoColor=white" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🎯 Platforms</h3>
-      <img src="https://img.shields.io/badge/TryHackMe-222A35?style=for-the-badge&logo=tryhackme&logoColor=FF6B2B" />
-      <img src="https://img.shields.io/badge/Blue_Team_Labs-0D1117?style=for-the-badge&logo=shield&logoColor=1DB899" />
-      <img src="https://img.shields.io/badge/CyberDefenders-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7F77DD" />
-      <img src="https://img.shields.io/badge/LetsDefend-20B2AA?style=for-the-badge&logo=shield&logoColor=white" />
-      <img src="https://img.shields.io/badge/CyLab-F05032?style=for-the-badge&logo=terminal&logoColor=white" />
+      <img src="https://img.shields.io/badge/TryHackMe-222A35?style=for-the-badge&logo=tryhackme&logoColor=FF6B2B" /><br />
+      <img src="https://img.shields.io/badge/Blue_Team_Labs-0D1117?style=for-the-badge&logo=shield&logoColor=1DB899" /><br />
+      <img src="https://img.shields.io/badge/CyberDefenders-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7F77DD" /><br />
+      <img src="https://img.shields.io/badge/LetsDefend-20B2AA?style=for-the-badge&logo=security-scorecard&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/CyLab-F05032?style=for-the-badge&logo=terminal&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/HackerDNA-0D1117?style=for-the-badge&logo=dna&logoColor=00FF9D" />
     </td>
   </tr>
 </table>
 
+---
 ---
 
 ## 📊 GitHub Stats
