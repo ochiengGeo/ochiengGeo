@@ -140,7 +140,7 @@ mission     : Build. Defend. Grow.
     <td width="50%" valign="top" align="center">
       <h3>🖥️ IDE & Environment</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,kali,mint" />
+        <img src="https://skillicons.dev/icons?i=vscode,idea,kali,mint" />
       </a>
     </td>
   </tr>
