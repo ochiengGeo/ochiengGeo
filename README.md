@@ -8,6 +8,14 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=George%20Ochieng&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20CyberAI%20%7C%20SOC-bound&descSize=18&descAlignY=58&descColor=FF6B2B&animation=fadeIn" width="100%"/>
 
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Phase%201%20%E2%80%94%20The%20Foundation-FF6B2B?style=for-the-badge&logo=target&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Target-SOC%20Analyst%20%7C%20Mid%202028-1DB899?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-Computer%20Science%20%7C%20Egerton%20University-7F77DD?style=for-the-badge&logo=academia&logoColor=white"/>
+</p>
 
 <!-- CYBERAI LEARNING STATUS: the SVG panels include their own styled heading -->
 <picture>
