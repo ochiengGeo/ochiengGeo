@@ -134,7 +134,7 @@ mission     : Build. Defend. Grow.
     <td width="50%" valign="top" align="center">
       <h3>💻 Languages</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,bash" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
