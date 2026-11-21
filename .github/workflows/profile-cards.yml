@@ -1,0 +1,31 @@
+
+name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ochiengGeo
+          cards: overview,languages,contributions
+          layout: combined
+          output-dir: assets
+          themes: light,dark
+          palette: orange
+          commit: true
+          commit-message: "chore: update GitHub profile statistics"
