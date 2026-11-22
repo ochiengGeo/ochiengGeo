@@ -166,13 +166,30 @@ mission     : Build. Defend. Grow.
 
 ---
 
-## 📊 GitHub Stats
+
+---
+## 📊 GitHub Activity & Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ochiengGeo&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FF6B2B&icon_color=1DB899&text_color=F0EEE8&border_color=2A2D3A&hide_border=false&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<br/><br/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/cards.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/cards.light.svg"
+  />
+  <img
+    src="./assets/cards.dark.svg"
+    alt="George Ochieng's GitHub activity, languages and contribution statistics"
+    width="100%"
+  />
+</picture>
+
+</div>
+
 
 ---
 ## 🎮 Contribution Graph
