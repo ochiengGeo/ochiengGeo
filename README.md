@@ -192,10 +192,14 @@ mission     : Build. Defend. Grow.
 
 
 ---
-## 🎮 Contribution Graph
+## 💻 CYBERAI Terminal // Learning in Progress
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/output/pacman.svg" alt="Pacman Contribution Animation" width="100%" />
+  <img
+    src="./assets/cyberai-terminal.svg"
+    alt="A simulated CyberAI terminal showing networking, packet inspection, and defensive security learning activity."
+    width="100%"
+  />
 </div>
 
 ---
