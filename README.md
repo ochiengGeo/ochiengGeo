@@ -59,15 +59,40 @@ mission     : Build. Defend. Grow.
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 What I'm Currently Learning
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/learning-dashboard-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/learning-dashboard-light.svg" />
-  <img src="./assets/learning-dashboard-dark.svg" alt="Currently learning dashboard: networking, protocols, packet analysis, Linux, Wireshark, and MITRE ATT&CK." width="100%" />
-</picture>
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/OSI%20Model-7%20Layers-FF6B2B?style=flat-square&logo=cisco&logoColor=white"/><br/>
+<sub>L3/L4/L7 SOC focus</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/TCP%2FIP-3--Way%20Handshake-FF6B2B?style=flat-square&logo=cloudflare&logoColor=white"/><br/>
+<sub>Packet analysis</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DNS%20%26%20HTTP-Protocol%20Deep%20Dive-FF6B2B?style=flat-square&logo=googlechrome&logoColor=white"/><br/>
+<sub>Tunnelling detection</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Linux%20CLI-Kali%20%2F%20WSL2-1DB899?style=flat-square&logo=linux&logoColor=white"/><br/>
+<sub>Log analysis + grep-fu</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Capture-1DB899?style=flat-square&logo=wireshark&logoColor=white"/><br/>
+<sub>Live traffic reading</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Kill%20Chain-7F77DD?style=flat-square&logo=hackthebox&logoColor=white"/><br/>
+<sub>Threat frameworks</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
