@@ -59,37 +59,57 @@ mission     : Build. Defend. Grow.
 
 ---
 
-## 🧠 What I'm Currently Learning
+## 🧠 Currently Learning
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/OSI%20Model-7%20Layers-FF6B2B?style=flat-square&logo=cisco&logoColor=white"/><br/>
-<sub>L3/L4/L7 SOC focus</sub>
+<td width="50%" valign="top" align="left">
+
+### 🌐 Networking
+
+<br/>
+
+<img src="https://img.shields.io/badge/OSI%20Model-7%20Layers-FF6B2B?style=flat-square&logo=cisco&logoColor=white"/>
+
+<sub>Seven layers · L3/L4/L7 SOC focus</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TCP%2FIP-3--Way%20Handshake-FF6B2B?style=flat-square&logo=cloudflare&logoColor=white"/>
+
+<sub>Packet analysis · Connection fundamentals</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DNS%20%26%20HTTP-Protocol%20Deep%20Dive-FF6B2B?style=flat-square&logo=googlechrome&logoColor=white"/>
+
+<sub>Name resolution · Web communication</sub>
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/TCP%2FIP-3--Way%20Handshake-FF6B2B?style=flat-square&logo=cloudflare&logoColor=white"/><br/>
-<sub>Packet analysis</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/DNS%20%26%20HTTP-Protocol%20Deep%20Dive-FF6B2B?style=flat-square&logo=googlechrome&logoColor=white"/><br/>
-<sub>Tunnelling detection</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Linux%20CLI-Kali%20%2F%20WSL2-1DB899?style=flat-square&logo=linux&logoColor=white"/><br/>
-<sub>Log analysis + grep-fu</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Wireshark-Packet%20Capture-1DB899?style=flat-square&logo=wireshark&logoColor=white"/><br/>
-<sub>Live traffic reading</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Kill%20Chain-7F77DD?style=flat-square&logo=hackthebox&logoColor=white"/><br/>
-<sub>Threat frameworks</sub>
+<td width="50%" valign="top" align="left">
+
+### 🛡️ Security & Systems
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux%20CLI-Kali%20%2F%20Mint-1DB899?style=flat-square&logo=linux&logoColor=white"/>
+
+<sub>Command line · Log analysis</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Capture-1DB899?style=flat-square&logo=wireshark&logoColor=white"/>
+
+<sub>Traffic inspection · Packet reading</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Threat%20Framework-7F77DD?style=flat-square&logo=hackthebox&logoColor=white"/>
+
+<sub>Adversary tactics · Defensive context</sub>
+
 </td>
 </tr>
 </table>
