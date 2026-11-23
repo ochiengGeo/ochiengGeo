@@ -18,7 +18,21 @@
 </p>
 
 <!-- CYBERAI LEARNING STATUS: the SVG panels include their own styled heading -->
-<img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/main/assets/learning-dashboard-dark.svg" alt="CyberAI learning dashboard" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/cyberai-panel-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/cyberai-panel-light.svg"
+  />
+  <img
+    src="./assets/cyberai-panel-light.svg"
+    alt="CyberAI learning status: networking, defensive security, systems engineering, and secure AI."
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -49,21 +63,7 @@ mission     : Build. Defend. Grow.
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/learning-dashboard-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/learning-dashboard-light.svg"
-  />
-  <img
-    src="./assets/learning-dashboard-dark.svg"
-    alt="CyberAI learning dashboard covering networking, protocols, traffic analysis, Linux, threat frameworks, and systems engineering."
-    width="100%"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/main/assets/cyberai-panel-dark.svg" alt="CyberAI learning status: networking, defensive security, systems engineering, and secure AI." width="100%" />
 
 </div>
 
