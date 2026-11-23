@@ -18,21 +18,7 @@
 </p>
 
 <!-- CYBERAI LEARNING STATUS: the SVG panels include their own styled heading -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/cyberai-panel-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/cyberai-panel-light.svg"
-  />
-  <img
-    src="./assets/cyberai-panel-light.svg"
-    alt="CyberAI learning status: networking, defensive security, systems engineering, and secure AI."
-    width="100%"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/main/assets/learning-dashboard-dark.svg" alt="CyberAI learning dashboard" width="100%" />
 
 </div>
 
