@@ -63,7 +63,11 @@ mission     : Build. Defend. Grow.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ochiengGeo/ochiengGeo/main/assets/cyberai-panel-dark.svg" alt="CyberAI learning status: networking, defensive security, systems engineering, and secure AI." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/learning-dashboard-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/learning-dashboard-light.svg" />
+  <img src="./assets/learning-dashboard-dark.svg" alt="Currently learning dashboard: networking, protocols, packet analysis, Linux, Wireshark, and MITRE ATT&CK." width="100%" />
+</picture>
 
 </div>
 
