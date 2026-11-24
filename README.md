@@ -117,8 +117,9 @@ mission     : Build. Defend. Grow.
 <sub>🔍 SOC & DFIR walkthroughs</sub>
 </td>
 <td align="center" width="180">
-<img src="https://img.shields.io/badge/Bro%20Code-0D1117?style=for-the-badge&logo=youtube&logoColor=7F77DD"/><br/>
-<sub>💻 Programming fundamentals</sub>
+<img src="https://img.shields.io/badge/Java%20Networking-0D1117?style=for-the-badge&logo=java&logoColor=7F77DD"/><br/>
+<sub>🔌 Concept application — sockets, streams & concurrency</sub><br/>
+<sub>📺 Learning from diverse YouTube channels</sub>
 </td>
 </tr>
 </table>
