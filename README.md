@@ -118,8 +118,7 @@ mission     : Build. Defend. Grow.
 </td>
 <td align="center" width="180">
 <img src="https://img.shields.io/badge/Java%20Networking-0D1117?style=for-the-badge&logo=java&logoColor=7F77DD"/><br/>
-<sub>🔌 Concept application — sockets, streams & concurrency</sub><br/>
-<sub>📺 Learning from diverse YouTube channels</sub>
+<sub>🔌 Concept application — sockets, streams & concurrency</sub>
 </td>
 </tr>
 </table>
