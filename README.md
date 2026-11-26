@@ -54,7 +54,7 @@ slogan      : "SUI28"
 mission     : Build. Defend. Grow.
 ```
 
-> *"The foundation is not glamorous. It is just necessary."*
+> *"The foundation is not glamorous. It's just necessary."*
 > — Palmer, A Journal of Days
 
 ---
